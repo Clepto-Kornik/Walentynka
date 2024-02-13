@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: 40%;
+  background-position: center;
+  position: relative;
+}
+
+body {
+  background-color: #FFC4C4;
+}
+
+h1 {
+  color: #850E35;
+  margin-bottom: 20px;
+  font-family: 'Brush Script MT', cursive;
+  font-size: 800%;
